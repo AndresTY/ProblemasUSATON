@@ -1,0 +1,5 @@
+name: D
+limits:
+    memory: 512
+    output: 512
+    time: 0.5

@@ -1,0 +1,5 @@
+name: B
+limits:
+    memory: 512
+    output: 512
+    time: 1
