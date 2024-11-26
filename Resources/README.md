@@ -67,14 +67,3 @@ Para mejorar, es importante practicar regularmente. Aquí te dejamos una lista d
 2. **[SPOJ](https://www.spoj.com/):** Una amplia base de problemas desafiantes.
 3. **[UVa Online Judge](https://onlinejudge.org/):** Problemas clásicos de programación.
 4. **[Kattis](https://open.kattis.com/):** Problemas usados en competencias reales.
-
----
-
-## Guías Adicionales
-
-En esta carpeta encontrarás archivos complementarios:
-
-- **`guía_algoritmos.md`:** Explicaciones de los algoritmos más utilizados.
-- **`estructuras_datos.md`:** Detalles sobre estructuras de datos avanzadas.
-- **`estrategias_práctica.md`:** Consejos y estrategias para mejorar tu rendimiento.
-- **`enlaces_utiles.md`:** Lista de enlaces a tutoriales, videos 

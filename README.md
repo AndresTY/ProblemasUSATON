@@ -1,6 +1,3 @@
-Aquí tienes un ejemplo de un archivo `README.md` que podrías usar para tu repositorio de soluciones de la maratón de programación de la Universidad Sergio Arboleda:
-
-```markdown
 # Soluciones y Explicaciones - Maratón de Programación Universidad Sergio Arboleda
 
 ¡Bienvenido al repositorio de soluciones y explicaciones de los problemas presentados en la Maratón de Programación de la Universidad Sergio Arboleda! Aquí encontrarás las soluciones implementadas, junto con explicaciones detalladas, análisis de complejidad y pasos para replicar cada solución.
@@ -11,8 +8,7 @@ Aquí tienes un ejemplo de un archivo `README.md` que podrías usar para tu repo
 2. [Estructura del Repositorio](#estructura-del-repositorio)
 3. [Cómo Usar este Repositorio](#cómo-usar-este-repositorio)
 4. [Lista de Problemas](#lista-de-problemas)
-5. [Contribuciones](#contribuciones)
-6. [Contacto](#contacto)
+5. [Se parte del equipo](#Se-parte-del-equipo)
 
 ---
 
@@ -32,15 +28,14 @@ El repositorio está organizado de la siguiente manera:
 ```
 /problems/
     /problem_01/
-        - description.md
-        - solution.py
-        - solution.cpp
+        - description.pdf
+        - solution.*
         - explanation.md
     /problem_02/
         ...
 /resources/
-    - guía_estudio.md
-    - enlaces_utiles.md
+    /books/
+    - readme.md
 README.md
 ```
 
@@ -53,38 +48,29 @@ README.md
 ## Cómo Usar este Repositorio
 
 1. Navega a la carpeta del problema que deseas consultar en `/problems/`.
-2. Lee el archivo `description.md` para entender el problema.
+2. Lee el archivo `description.pdf` para entender el problema.
 3. Revisa el código de la solución en los archivos correspondientes (`solution.py`, `solution.cpp`, etc.).
 4. Consulta el archivo `explanation.md` para una explicación detallada.
 5. Si quieres practicar, intenta resolver el problema antes de ver la solución.
 
 ## Lista de Problemas
 
-| #   | Nombre del Problema                   | Dificultad | Lenguajes Disponibles |
-|-----|---------------------------------------|------------|------------------------|
-| 01  | [Suma de Pares](problems/problem_01/) | Fácil      | Python, C++           |
-| 02  | [Camino Más Corto](problems/problem_02/) | Media     | Python, Java          |
-| ... | ...                                   | ...        | ...                   |
+| #   | Nombre del Problema                   | Dificultad | 
+|-----|---------------------------------------|------------|
+| 01  | [Barra de oro](Problems/Barra%20de%20Oro/) | Fácil      | 
+| 02  | [Cadena dividida](problems/Cadena%20Dividida/) | Media     | 
+| 03  | [Caminata en descenso](problems/Caminata%20en%20Descenso/) | Media     | 
+| 04  | [Fake File](problems/Fake%20File/) | Media     | 
+| 05  | [Identificacion de Asteroides](problems/Identificación%20de%20Asteroides/) | Media     | 
+| 06  | [Las donas de Nestor](problems/Las%20Donas%20de%20Nestor/) | Media     | 
+| 07  | [Sabotenado a los saboteadores](problems/Saboteando%20a%20los%20saboteadores/) | Media     | 
+| 08  | [Suma inversa](problems/Suma%20inversa/) | Media     | 
+| 09  | [Transacciones fraudulentas](problems/Transacciones%20Fraudulentas/) | Media     | 
 
-## Contribuciones
+## Se parte del equipo
 
-Las contribuciones son bienvenidas. Si deseas añadir tus propias soluciones, mejorar las explicaciones o sugerir cambios, sigue estos pasos:
-
-1. Realiza un fork de este repositorio.
-2. Crea una rama para tu contribución: `git checkout -b mi-contribucion`.
-3. Realiza tus cambios y haz un commit: `git commit -m "Descripción de mis cambios"`.
-4. Envía un pull request y lo revisaremos lo antes posible.
-
-## Contacto
-
-Si tienes preguntas, sugerencias o comentarios, no dudes en contactarnos:
-
-- **Correo**: maraton.programacion@usa.edu
-- **Responsable**: Equipo de la Maratón de Programación
+Las contribuciones son bienvenidas. Si deseas ser parte del equipo que dará vida a este evento, te animamos a unirte a nosotros como organizador. Tu participación será esencial para asegurar el éxito de nuestra maratón de programación. Juntos, podemos crear una experiencia inolvidable, llena de innovación, colaboración y descubrimientos. ¡Esperamos contar contigo en esta emocionante aventura! 🚀💻
 
 ---
 
-¡Gracias por tu interés en este repositorio y mucho éxito en tu aprendizaje!
-```
-
-### ¿Quieres agregar algo más, como detalles de los lenguajes o herramientas utilizadas?
+Gracias por tu interés en este repositorio y mucho éxito en tu aprendizaje
