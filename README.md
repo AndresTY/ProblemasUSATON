@@ -58,14 +58,14 @@ README.md
 | #   | Nombre del Problema                   | Dificultad | 
 |-----|---------------------------------------|------------|
 | 01  | [Barra de oro](Problems/Barra%20de%20Oro/) | Fácil      | 
-| 02  | [Cadena dividida](problems/Cadena%20Dividida/) | Media     | 
-| 03  | [Caminata en descenso](problems/Caminata%20en%20Descenso/) | Media     | 
-| 04  | [Fake File](problems/Fake%20File/) | Media     | 
-| 05  | [Identificacion de Asteroides](problems/Identificación%20de%20Asteroides/) | Media     | 
-| 06  | [Las donas de Nestor](problems/Las%20Donas%20de%20Nestor/) | Media     | 
-| 07  | [Sabotenado a los saboteadores](problems/Saboteando%20a%20los%20saboteadores/) | Media     | 
-| 08  | [Suma inversa](problems/Suma%20inversa/) | Media     | 
-| 09  | [Transacciones fraudulentas](problems/Transacciones%20Fraudulentas/) | Media     | 
+| 02  | [Cadena dividida](Problems/Cadena%20Dividida/) | Media     | 
+| 03  | [Caminata en descenso](Problems/Caminata%20en%20Descenso/) | Media     | 
+| 04  | [Fake File](Problems/Fake%20File/) | Media     | 
+| 05  | [Identificacion de Asteroides](Problems/Identificación%20de%20Asteroides/) | Media     | 
+| 06  | [Las donas de Nestor](Problems/Las%20Donas%20de%20Nestor/) | Media     | 
+| 07  | [Sabotenado a los saboteadores](Problems/Saboteando%20a%20los%20saboteadores/) | Media     | 
+| 08  | [Suma inversa](Problems/Suma%20inversa/) | Media     | 
+| 09  | [Transacciones fraudulentas](Problems/Transacciones%20Fraudulentas/) | Media     | 
 
 ## Se parte del equipo
 
