@@ -55,17 +55,17 @@ README.md
 
 ## Lista de Problemas
 
-| #   | Nombre del Problema                   | Dificultad | 
-|-----|---------------------------------------|------------|
-| 01  | [Barra de oro](Problems/Barra%20de%20Oro/) | Fácil      | 
-| 02  | [Cadena dividida](Problems/Cadena%20Dividida/) | Media     | 
-| 03  | [Caminata en descenso](Problems/Caminata%20en%20Descenso/) | Media     | 
-| 04  | [Fake File](Problems/Fake%20File/) | Media     | 
-| 05  | [Identificacion de Asteroides](Problems/Identificación%20de%20Asteroides/) | Media     | 
-| 06  | [Las donas de Nestor](Problems/Las%20Donas%20de%20Nestor/) | Media     | 
-| 07  | [Sabotenado a los saboteadores](Problems/Saboteando%20a%20los%20saboteadores/) | Media     | 
-| 08  | [Suma inversa](Problems/Suma%20inversa/) | Media     | 
-| 09  | [Transacciones fraudulentas](Problems/Transacciones%20Fraudulentas/) | Media     | 
+| #   | Nombre del Problema                   | Dificultad |  Maraton 
+|-----|---------------------------------------|------------|-----------|
+| 01  | [Barra de oro](Problems/Barra%20de%20Oro/) | Fácil      | 2024-2|
+| 02  | [Cadena dividida](Problems/Cadena%20Dividida/) | Media     | 2024-2|
+| 03  | [Caminata en descenso](Problems/Caminata%20en%20Descenso/) | Media     | 2024-2|
+| 04  | [Fake File](Problems/Fake%20File/) | Media     | 2024-2|
+| 05  | [Identificacion de Asteroides](Problems/Identificación%20de%20Asteroides/) | Media     | 2024-2|
+| 06  | [Las donas de Nestor](Problems/Las%20Donas%20de%20Nestor/) | Media     | 2024-2|
+| 07  | [Sabotenado a los saboteadores](Problems/Saboteando%20a%20los%20saboteadores/) | Media     | 2024-2|
+| 08  | [Suma inversa](Problems/Suma%20inversa/) | Media     | 2024-2|
+| 09  | [Transacciones fraudulentas](Problems/Transacciones%20Fraudulentas/) | Media     | 2024-2|
 
 ## Se parte del equipo
 
